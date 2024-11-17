@@ -11,7 +11,7 @@
 
 [General]
 	#Disables the vanilla jump crit
-	disableVanillaCrit = true
+	disableVanillaCrit = false
 	#If true, fall damage will be reset when gravity is negative 
 	gravityFallDamage = true
 	#Enables the Zoe critical hit (default: true)
@@ -21,7 +21,7 @@
 	#If enabled, knockback resistance will be calculated with crit knockback (default: true)
 	zoeCritKnockback = false
 	#Allows high-speed impact with blocks to cause an explosion
-	collisionImpact = false
+	collisionImpact = true
 	#If enabled, will prevent the Volt attribute from dealing damage if the player's hand isn't empty (default: true)
 	disableArmedVolt = true
 

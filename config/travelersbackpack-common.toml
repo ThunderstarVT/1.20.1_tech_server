@@ -35,7 +35,7 @@
 		enableSleepingBagSpawnPoint = false
 		#If true, backpack can only be worn by placing it in curios 'Back' slot
 		#WARNING - Remember to TAKE OFF BACKPACK BEFORE enabling or disabling this integration!! - if not you'll lose your backpack
-		curiosIntegration = false
+		curiosIntegration = true
 
 		#Leather Tier Backpack Settings
 		[common.backpackSettings.leatherTierBackpack]
@@ -47,7 +47,7 @@
 			toolSlotCount = 2
 			#Tank capacity for the tier, 1000 equals 1 Bucket
 			#Range: 1 ~ 128000
-			tankCapacity = 3000
+			tankCapacity = 4000
 
 		#Iron Tier Backpack Settings
 		[common.backpackSettings.ironTierBackpack]
@@ -59,7 +59,7 @@
 			toolSlotCount = 3
 			#Tank capacity for the tier, 1000 equals 1 Bucket
 			#Range: 1 ~ 128000
-			tankCapacity = 4000
+			tankCapacity = 8000
 
 		#Gold Tier Backpack Settings
 		[common.backpackSettings.goldTierBackpack]
@@ -71,7 +71,7 @@
 			toolSlotCount = 4
 			#Tank capacity for the tier, 1000 equals 1 Bucket
 			#Range: 1 ~ 128000
-			tankCapacity = 5000
+			tankCapacity = 16000
 
 		#Diamond Tier Backpack Settings
 		[common.backpackSettings.diamondTierBackpack]
@@ -83,7 +83,7 @@
 			toolSlotCount = 5
 			#Tank capacity for the tier, 1000 equals 1 Bucket
 			#Range: 1 ~ 128000
-			tankCapacity = 6000
+			tankCapacity = 32000
 
 		#Netherite Tier Backpack Settings
 		[common.backpackSettings.netheriteTierBackpack]
@@ -95,7 +95,7 @@
 			toolSlotCount = 6
 			#Tank capacity for the tier, 1000 equals 1 Bucket
 			#Range: 1 ~ 128000
-			tankCapacity = 7000
+			tankCapacity = 64000
 
 	[common.world]
 		#Enables backpacks spawning in loot chests
@@ -104,7 +104,7 @@
 		spawnEntitiesWithBackpack = true
 		#Defines spawn chance of entity with a backpack
 		#Range: 0.0 ~ 1.0
-		chance = 0.005
+		chance = 0.001
 		#List of overworld entity types that can spawn with equipped backpack. DO NOT ADD anything to this list, because the game will crash, remove entries if mob should not spawn with backpack
 		possibleOverworldEntityTypes = ["minecraft:zombie", "minecraft:skeleton", "minecraft:enderman"]
 		#List of nether entity types that can spawn with equipped backpack. DO NOT ADD anything to this list, because the game will crash, remove entries if mob should not spawn with backpack
@@ -125,10 +125,10 @@
 
 	[common.slownessDebuff]
 		#Player gets slowness effect, if carries too many backpacks in inventory
-		tooManyBackpacksSlowness = false
+		tooManyBackpacksSlowness = true
 		#Maximum number of backpacks, which can be carried in inventory, without slowness effect
 		#Range: 1 ~ 37
-		maxNumberOfBackpacks = 3
+		maxNumberOfBackpacks = 1
 		#Range: 0.1 ~ 5.0
-		slownessPerExcessedBackpack = 1.0
+		slownessPerExcessedBackpack = 0.1
 
