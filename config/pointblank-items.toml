@@ -579,6 +579,13 @@ enabled = true
 #Range: 0.01 ~ 100.0
 damage = 5.0
 
+[m82a1]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 25.0
+
 [cp2077_arasaka_hjke11_yukimura]
 #Set to `false` to remove the item from the game.
 enabled = true
@@ -921,4 +928,256 @@ enabled = true
 #Sets this item damage.
 #Range: 0.01 ~ 100.0
 damage = 10.0
+
+[ammo_hk]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.0
+
+[hk416mod1]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 10.0
+
+[hkguns_hk416]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 10.0
+
+[mp5k]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.0
+
+[ammo17mm]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.0
+
+[binocular]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 1.0
+
+[hissniper]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 28.5
+
+[k2q]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.0
+
+[kar98kq]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 20.0
+
+[m35q]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.0
+
+[mg42q]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 6.0
+
+[raygunq]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 12.0
+
+[rpkq]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 7.0
+
+[type68q]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 7.0
+
+[stellatsweaponries_amhs_gasoline_pulverizer]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 0.6899999976158142
+
+[stellatsweaponries_amhs_steelmelter]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 1.2690000534057617
+
+[stellatsweaponries_atomic_devourer]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 25.0
+
+[stellatsweaponries_atomic_devourer_anti-neutron_apdsfs]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.0
+
+[stellatsweaponries_ds74]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 3.75
+
+[stellatsweaponries_emlr_mk17]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 10.0
+
+[stellatsweaponries_emlr_mk7]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.690000057220459
+
+[stellatsweaponries_energy_capsule_t1]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.0
+
+[stellatsweaponries_energy_capsule_t2]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.0
+
+[stellatsweaponries_energy_capsule_t3]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.0
+
+[stellatsweaponries_energy_pack]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.0
+
+[stellatsweaponries_m3k-4]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.690000057220459
+
+[stellatsweaponries_mz-x]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 4.568999767303467
+
+[stellatsweaponries_protonium_crystal]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.0
+
+[stellatsweaponries_rc2_jqmg]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.0
+
+[stellatsweaponries_rc2_qmg]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.0
+
+[stellatsweaponries_rr-x]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 6.0
+
+[stellatsweaponries_rr-x_akimbo]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 6.0
+
+[stellatsweaponries_stellatite_plate]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.0
+
+[stellatsweaponries_sv-4_strela]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 10.968999862670898
+
+[stellatsweaponries_sv-4_strela_mpec]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 5.0
+
+[stellatsweaponries_vz-x]
+#Set to `false` to remove the item from the game.
+enabled = true
+#Sets this item damage.
+#Range: 0.01 ~ 100.0
+damage = 4.468999862670898
 
