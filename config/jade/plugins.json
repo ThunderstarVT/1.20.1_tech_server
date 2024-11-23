@@ -72,6 +72,10 @@
     "registry_name": "OFF",
     "mod_name": true
   },
+  "expatternprovider": {
+    "jade_chamber": true,
+    "jade_wireless": true
+  },
   "toms_peripherals": {
     "modem_info": true,
     "full_modem_info": true,
