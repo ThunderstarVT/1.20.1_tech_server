@@ -11,3 +11,5 @@ options.txt
 /logs
 /crash-reports
 servers.dat
+/config/worldedit
+servers.dat_old

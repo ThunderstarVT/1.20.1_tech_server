@@ -38,7 +38,7 @@ compassOverEverything:true
 showFlowers:true
 keepWaypointNames:true
 waypointsDistanceExp:0
-waypointsDistanceMin:0.0
+waypointsDistanceMin:25.0
 defaultWaypointTPCommandFormat:/tp @s {x} {y} {z}
 defaultWaypointTPCommandRotationFormat:/tp @s {x} {y} {z} {yaw} ~
 arrowScale:1.5
@@ -55,13 +55,13 @@ hideWorldNames:1
 openSlimeSettings:true
 alwaysShowDistance:false
 renderLayerIndex:1
-crossDimensionalTp:true
+crossDimensionalTp:false
 biomeColorsVanillaMode:false
 lookingAtAngle:10
 lookingAtAngleVertical:180
 centeredEnlarged:false
 zoomOnEnlarged:0
-minimapTextAlign:0
+minimapTextAlign:2
 waypointsMutualEdit:true
 compassLocation:1
 compassDirectionScale:0
@@ -75,23 +75,23 @@ lightOverlayType:0
 lightOverlayMaxLight:7
 lightOverlayMinLight:0
 lightOverlayColor:13
-uiScale:0
+uiScale:1
 bossHealthPushBox:0
-potionEffectPushBox:1
+potionEffectPushBox:2
 minimapFrame:0
 minimapFrameColor:9
 compassColor:9
-northCompassColor:-1
+northCompassColor:12
 displayMultipleWaypointInfo:1
 entityRadar:true
 adjustHeightForCarpetLikeBlocks:true
-autoConvertWaypointDistanceToKmThreshold:10000
+autoConvertWaypointDistanceToKmThreshold:1000
 waypointDistancePrecision:1
 mainDotSize:2
 partialYTeleportation:true
 deleteReachedDeathpoints:true
 hideMinimapUnderScreen:false
-hideMinimapUnderF3:true
+hideMinimapUnderF3:false
 manualCaveModeStartAuto:true
 manualCaveModeStart:-1
 chunkGridLineWidth:1
@@ -102,7 +102,7 @@ displayStainedGlass:true
 waypointOnMapScale:0
 switchToAutoOnDeath:true
 infoDisplayBackgroundOpacity:40
-caveModeToggleTimer:1000
+caveModeToggleTimer:0
 legibleCaveMaps:false
 biomeBlending:true
 displayTrackedPlayersOnMap:true
